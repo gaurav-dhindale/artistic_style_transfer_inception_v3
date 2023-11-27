@@ -30,8 +30,8 @@ This project aims to create a deep learning model for artistic style transfer, a
   - Visualizations of the stylized images at different steps are available for analysis.
 
 ## Dependencies
-  - TensorFlow
-  - Keras
+  - TensorFlow = 2.14.0
+  - Keras = 2.14.0
   - Matplotlib
-  - NumPy
+  - NumPy = 1.23.5
   - ImageIO
